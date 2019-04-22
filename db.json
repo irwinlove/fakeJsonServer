@@ -10,5 +10,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id":1,
+      "name": "irwin",
+      "username": "chen",
+      "email": "123@123.com",
+      "address.street": "no street",
+       "phone": "18099993788"
+       "website":"www.baidu.com"
+       "company.name":"qktech"
+    }
+  ]
 }
