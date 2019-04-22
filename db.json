@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "users": [
+  "users":[
     {
       "id": 1,
       "name": "irwin",
@@ -19,5 +19,5 @@
       "email": "123@123.com",
        "company.name": "qktech"
     }
-  ]
+]
 }
